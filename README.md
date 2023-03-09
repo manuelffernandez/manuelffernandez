@@ -1,4 +1,22 @@
-# Hi there 👋 I'm Manuel 
+# 👋 Hello everyone, I'm Manuel
+
+I'm a 26-yo self-taught developer from Argentina. I have a passion for web development, specifically in the frontend using **React** as my primary library.
+
+#### :brain: Some facts:
+- I studied Mathematics at university for three years
+- I took a front-end developer course at Coderhouse
+
+I have experience with languages like **HTML**, **CSS&SCSS**, **JavaScript**, and **TypeScript**. Throughout my development journey, I have honed my skills in using these languages to create more scalable applications with clean code.
+
+In my projects, I frequently utilize popular libraries such as **React Router**, **Redux Toolkit**, **MUI**, **Bootstrap**, and **Formik**.
+
+👀 I invite you to check out some of my projects and see for yourself! Don't hesitate to contact me if you have any questions/suggestions or would like to collaborate.
+
+## Contact me :arrow_down:
+#### :email: [manufer6503@gmail.com](mailto:manufer6503@gmail.com)
+#### :iphone: +54 9 294 4650354
+
+
 
 <!--
 **manuelffernandez/manuelffernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
