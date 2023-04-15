@@ -5,12 +5,16 @@ I'm a 26-yo self-taught developer from Argentina. I have a passion for web devel
 #### :brain: Some facts:
 - I studied Mathematics at university for three years
 - I took a front-end developer course at Coderhouse
+- I'm currently studying PostgreSQL at EDTeam platform
 
 I have experience with languages like **HTML**, **CSS&SCSS**, **JavaScript**, and **TypeScript**. Throughout my development journey, I have honed my skills in using these languages to create more scalable applications with clean code.
 
 In my projects, I frequently utilize popular libraries such as **React Router**, **Redux Toolkit**, **MUI**, **Bootstrap**, and **Formik**.
 
 👀 I invite you to check out some of my projects and see for yourself! Don't hesitate to contact me if you have any questions/suggestions or would like to collaborate.
+
+## Portfolio
+I invite you to explore **[my portfolio](https://manuelffernandez.netlify.app/)** :smile:, where you can find a sample of my work and more info about my skills. 
 
 ## Contact me :arrow_down:
 #### :email: [manufer6503@gmail.com](mailto:manufer6503@gmail.com)
