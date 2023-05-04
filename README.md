@@ -14,7 +14,9 @@ In my projects, I frequently utilize popular libraries such as **React Router**,
 👀 I invite you to check out some of my projects and see for yourself! Don't hesitate to contact me if you have any questions/suggestions or would like to collaborate.
 
 ## Portfolio
-I invite you to explore **[my portfolio](https://manuelffernandez.netlify.app/)** :smile:, where you can find a sample of my work and more info about my skills. 
+You can find my portfolio in **[THIS LINK](https://manuelffernandez.netlify.app/)** :smile:. There you will find a sample of my projects and info about my skills.
+
+I welcome any feedback you may have :wink:.
 
 ## Contact me :arrow_down:
 #### :email: [manufer6503@gmail.com](mailto:manufer6503@gmail.com)
