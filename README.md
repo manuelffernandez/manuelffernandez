@@ -3,9 +3,9 @@
 I'm a 26-yo self-taught developer from Argentina. I have a passion for web development, specifically in the frontend using **React** as my primary library.
 
 #### 🧠 Some facts:
-- I'm currently participating in a web development simulation organized by [NoCountry](https://www.nocountry.tech/)
-- Continusly learning on several online programming academies
-- I studied Bachelor's on Mathematics at university for three years
+- I'm currently participating in a web development simulation organized by [NoCountry](https://www.nocountry.tech/) 🧩
+- Continusly learning on several online programming academies 🖥️
+- I studied Bachelor's on Mathematics at university for three years 📈
 
 ✍️ I have experience with languages like **HTML**, **CSS&SCSS**, **JavaScript**, and **TypeScript**. Throughout my development journey, I have honed my skills in using these languages to create more scalable applications with clean code.
 
