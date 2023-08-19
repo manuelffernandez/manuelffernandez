@@ -2,14 +2,15 @@
 
 I'm a 26-yo self-taught developer from Argentina. I have a passion for web development, specifically in the frontend using **React** as my primary library.
 
-#### :brain: Some facts:
-- I studied Mathematics at university for three years
-- I took a front-end developer course at Coderhouse
-- I'm currently studying PostgreSQL at EDTeam platform
+#### 🧠 Some facts:
+- I'm currently participating in a web development simulation organized by [NoCountry](https://www.nocountry.tech/)
+- Continusly learning on several online programming academies
+- I studied Bachelor's on Mathematics at university for three years
 
-I have experience with languages like **HTML**, **CSS&SCSS**, **JavaScript**, and **TypeScript**. Throughout my development journey, I have honed my skills in using these languages to create more scalable applications with clean code.
+✍️ I have experience with languages like **HTML**, **CSS&SCSS**, **JavaScript**, and **TypeScript**. Throughout my development journey, I have honed my skills in using these languages to create more scalable applications with clean code.
 
-In my projects, I frequently utilize popular libraries such as **React Router**, **Redux Toolkit**, **MUI**, **Bootstrap**, and **Formik**.
+📕 In my projects, I frequently utilize popular libraries such as **React Router**, **Redux Toolkit**, **MUI**, **Bootstrap**, and **Formik**.
+I have recently cultivated a keen interest in the [Next.js](https://nextjs.org/) framework.
 
 👀 I invite you to check out some of my projects and see for yourself! Don't hesitate to contact me if you have any questions/suggestions or would like to collaborate.
 
@@ -19,9 +20,9 @@ You can find my portfolio in **[THIS LINK](https://manuelffernandez.netlify.app/
 I welcome any feedback you may have :wink:.
 
 ## Contact me :arrow_down:
-#### :email: [manufer6503@gmail.com](mailto:manufer6503@gmail.com)
-#### :link: [linkedin](https://www.linkedin.com/in/manuelffernandez/)
-#### :iphone: +54 9 294 4650354
+#### 📧 [manufer6503@gmail.com](mailto:manufer6503@gmail.com)
+#### 🔗 [linkedin](https://www.linkedin.com/in/manuelffernandez/)
+#### 📱 +54 9 294 4650354
 
 
 
