@@ -1,28 +1,23 @@
-# 👋 Hello everyone, I'm Manuel
+# 👋 Hi, I'm Manuel
 
-I'm a 26-yo self-taught developer from Argentina. I have a passion for web development, specifically in the frontend using **React** as my primary library.
+Software developer focused on frontend systems, working mainly with **React**, **Next.js**, and **TypeScript**.
 
-#### 🧠 Some facts:
-- I'm currently participating in a web development simulation organized by [NoCountry](https://www.nocountry.tech/) 🧩
-- Continusly learning on several online programming academies 🖥️
-- I studied Bachelor's on Mathematics at university for three years 📈
+I build web interfaces with a strong focus on maintainability, product behavior, and real-world debugging. When working on new features, I usually think through edge cases early, iterate on the implementation, and aim for solutions that can evolve without becoming harder to maintain.
 
-✍️ I have experience with languages like **HTML**, **CSS&SCSS**, **JavaScript**, and **TypeScript**. Throughout my development journey, I have honed my skills in using these languages to create more scalable applications with clean code.
+My work is centered on frontend development, while gradually expanding into integrations, cloud environments, and AI-assisted development when the project calls for it.
 
-📕 In my projects, I frequently utilize popular libraries such as **React Router**, **Redux Toolkit**, **MUI**, **Bootstrap**, and **Formik**.
-I have recently cultivated a keen interest in the [Next.js](https://nextjs.org/) framework.
+## 🚧 Currently working on
 
-👀 I invite you to check out some of my projects and see for yourself! Don't hesitate to contact me if you have any questions/suggestions or would like to collaborate.
+I’m currently working on the web platform for [Teleférico Cerro Otto](https://telefericobariloche.com.ar), with a frontend-focused approach and growing involvement in CMS integration, authentication flows, **GCP**, and AI-assisted development.
 
-## Portfolio
-You can find my portfolio in **[THIS LINK](https://manuelffernandez.netlify.app/)** :smile:. There you will find a sample of my projects and info about my skills.
+## 🌱 Expanding into
 
-I welcome any feedback you may have :wink:.
+I’m planning to expand into **Java** and **Python**, especially for backend-oriented work, automation, and AI-related integrations.
 
-## Contact me :arrow_down:
-#### 📧 [manufer6503@gmail.com](mailto:manufer6503@gmail.com)
-#### 🔗 [linkedin](https://www.linkedin.com/in/manuelffernandez/)
-#### 📱 +54 9 294 4650354
+## 📫 Contact
+
+- [manufer6503@gmail.com](mailto:manufer6503@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/manuelffernandez/)
 
 
 
